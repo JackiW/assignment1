@@ -16,3 +16,7 @@ ul {
   color: purple;
   font-weight: bold;
 }
+.small-image {
+  max-width: 500px;
+
+}
