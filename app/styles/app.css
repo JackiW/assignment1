@@ -1,14 +1,18 @@
 h2 {
-	font-family: cursive;
-	color: green;
+  font-family: cursive;
+  color: green;
+  font-family: cursive;
+  color: green;
+  border-bottom: 1px solid blanchedalmond;
+  text-shadow: 5px 5px RGB(200, 0, 200);
 
 }
 h3 {
-	color: blue;
-	font-family: sans-serif; 
+  color: blue;
+  font-family: sans-serif;
 }
 ul {
-	list-style-type: lower-roman;
-	color: purple;
-	font-weight: bold;
+  list-style-type: lower-roman;
+  color: purple;
+  font-weight: bold;
 }
