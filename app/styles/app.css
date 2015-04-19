@@ -1,0 +1,14 @@
+h2 {
+	font-family: cursive;
+	color: green;
+
+}
+h3 {
+	color: blue;
+	font-family: sans-serif; 
+}
+ul {
+	list-style-type: lower-roman;
+	color: purple;
+	font-weight: bold;
+}
